@@ -1,0 +1,10 @@
+  434  git remote add origin https://github.com/Gunacan/git-drill-2.git
+  435  git push -u origin master
+  436  git add -A
+  437  git commit -m "the rest of the files"
+  438  git push -u origin master
+  439  git pull
+  440* open ../projects/week01/git-drill-2/git-practise-2/readme.md
+  441* ls
+  442* rm commands
+  443* ls
